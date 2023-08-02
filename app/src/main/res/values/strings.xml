@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animes</string>
+    <string name="all">TODO</string>
+    <string name="name">Dragon Ball Super</string>
+    <string name="score">7</string>
+    <string name="episode">Episode: 131</string>
+    <string name="description">The God of Destruction has awakened, specializing in destroying planets, and has just discovered Earth. Upon finding out, warrior Goku enlisted the help of his friends to become a legendary Super Saiyan and defeat him.</string>
+    <string name="form_title">Add New Anime</string>
+    <string name="name_url">Url image</string>
+    <string name="name_description">Description</string>
+    <string name="name_score">Evaluate</string>
+    <string name="name_episode">Episodes</string>
+    <string name="name_name">Movie Name</string>
+    <string name="title_add">New Anime</string>
+    <string name="title_edit">Data Anime</string>
+    <string name="save">Save</string>
+    <string name="action_search">Search</string>
+</resources>
